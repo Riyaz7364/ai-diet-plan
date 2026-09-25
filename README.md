@@ -1,16 +1,26 @@
-# unimeal
+# UniMeal - AI Diet Plan App (Flutter)
 
-A new Flutter project.
+AI-powered diet planning app built with Flutter.
 
-## Getting Started
+## Features
+- Personalized diet plan generation (AI)
+- Multi-language support (easy_localization)
+- API integration with Dio
+- HTML content rendering
+- GetX state management + GetStorage local cache
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+Flutter, Dart, GetX, Dio, GetStorage, Easy Localization
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+[Add 2 screenshots - diet plan list + detail]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup
+flutter pub get
+flutter run
+Your portfolio now (too many for 1-page resume - you must pick top 4):
+1. GymSaaS (SaaS + Razorpay - Senior level)
+2. GrowNext (HR/Onboarding - Business app)
+3. Chatter (Firebase Realtime Chat - Interview favorite)
+4. UniMeal / AI Diet Plan (AI + Health - Trending)
+5. Puzzle Block / Bottle Game -> Keep as Other Apps one-liner with Play Store link
