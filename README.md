@@ -13,7 +13,7 @@ AI-powered diet planning app built with Flutter.
 Flutter, Dart, GetX, Dio, GetStorage, Easy Localization
 
 ## Screenshots
-[Add 2 screenshots - diet plan list + detail]
+xxxxxx
 
 ## Setup
 flutter pub get
